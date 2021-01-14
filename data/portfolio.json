@@ -1,0 +1,79 @@
+[
+    {
+        "value": "MarketPage",
+        "title": "MarketZone Pagina Web",
+        "category": "Diseño Web",
+        "projectDate": "27 Julio 2018",
+        "url": "",
+        "description": "",
+        "images": [
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/MarketPage1_c0h4gh.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/MarketPage2_dna0iz.jpg"
+        ]
+    },
+    {
+        "value": "Market",
+        "title": "MarketZone",
+        "category": "Desarrollo Web",
+        "projectDate": "07 Junio 2018",
+        "url": "",
+        "description": "",
+        "images": [
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Market1_t7ptvf.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/Market2_r3zhrl.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/Market3_du2fhy.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/Market4_m3mxuh.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/Market5_qefdjs.jpg"
+        ]
+    },
+    {
+        "value": "Chat",
+        "title": "Chat",
+        "category": "Desarrollo Web",
+        "projectDate": "07 Junio 2020",
+        "url": "",
+        "description": "",
+        "images": [
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/Chat1_eyuud8.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Chat2_marib5.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Chat3_t5zs7t.jpg"
+        ]
+    },
+    {
+        "value": "InfotechPage",
+        "title": "Infotech Pagina web",
+        "category": "Diseño Web",
+        "projectDate": "07 Noviembre 2019",
+        "url": "",
+        "description": "",
+        "images": [
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/InfotechPage1_yxvw3b.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/InfotechPage2_nyizco.jpg"
+        ]
+    },
+    {
+        "value": "Infotech",
+        "title": "Infotech",
+        "category": "Desarrollo Web",
+        "projectDate": "10 Octubre 2019",
+        "url": "",
+        "description": "Esta es una app",
+        "images": [
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Infotech_obvctf.jpg"
+        ]
+    },
+    {
+        "value": "Homeworks",
+        "title": "Homeworks",
+        "category": "Desarrollo Web",
+        "projectDate": "07 Agosto 2020",
+        "url": "",
+        "description": "",
+        "images": [
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Homeworks1_a6maf0.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/Homeworks2_sdvh77.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Homeworks3_uopdxs.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Homeworks4_lcbjyd.jpg"
+        ]
+    }
+]

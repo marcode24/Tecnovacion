@@ -1,0 +1,67 @@
+[
+    {
+        "value": "Marco",
+        "name": "Marco Antonio Cruz Gabino",
+        "description": "Actualmente se encuentra estudiando Ingeniería en Informática en UPIICSA, destaca por sus habilidades de programación orientada a objetos y diseño y desarrollo web, tanto del lado del cliente (frontEnd) como del lado del servidor (backEnd). Complementa sus actividades académicas con el estuidio y mejoramiento de el idioma Inglés, practicar futbol colaborar en proyectos ajenos a la escuela, aprender día a día sobre las nuevas tecnologias que surgen",
+        "position": "IT Manager",
+        "social": {
+            "facebook": "https://facebook.com",
+            "twitter": "https://twitter.com",
+            "instagram": "https://instagram.com",
+            "linkedin": "https://mx.linkedin.com"
+        },
+        "image": "https://res.cloudinary.com/dfeujtobk/image/upload/v1610649435/Tecnovacion/team/Team4_bmfrca.jpg"
+    },
+    {
+        "value": "Manuel",
+        "name": "Manuel Sánchez Romero",
+        "description": "Se encuentra estudiando la carrera de Ingeniería en Informática, es una persona sencilla, le gusta colaborar y trabajar en equipo, pero tambien escuchar a la gente de su alrededor. Su labor en la empresa es coordinar las operaciones entre los clientes y la empresa, elaborar todo lo que tenga que ver en el campo jurídico",
+        "position": "CEO",
+        "social": {
+            "facebook": "https://facebook.com",
+            "twitter": "https://twitter.com",
+            "instagram": "https://instagram.com",
+            "linkedin": "https://mx.linkedin.com"
+        },
+        "image": "https://res.cloudinary.com/dfeujtobk/image/upload/v1610649435/Tecnovacion/team/Team1_p9u543.jpg"
+    },
+    {
+        "value": "Ricardo",
+        "name": "Ricardo Meneses Jimenez",
+        "description": "Actualmente estudia ingeniería en informática en UPIICSA, le gusta tomar cargos dentro de las finanzas y de la programación. Complementa su formación académica estudiando Inglés, haciendo ejercicio todos los días, actualmente se encuentra desarrollando un nuevo hábito que es leer cada día el periódico (Revista Forbes) dado que le  apasiona el tema de las finanzas y le inspiran los grandes empresarios, otro de sus grandes gustos es el terror, escuchar historias o inventarlas.",
+        "position": "Financial Manager",
+        "social": {
+            "facebook": "https://facebook.com",
+            "twitter": "https://twitter.com",
+            "instagram": "https://instagram.com",
+            "linkedin": "https://mx.linkedin.com"
+        },
+        "image": "https://res.cloudinary.com/dfeujtobk/image/upload/v1610649435/Tecnovacion/team/Team5_akpn47.jpg"
+    },
+    {
+        "value": "Divani",
+        "name": "Divani Isarael Cornelio Ramírez",
+        "description": "Actualmente estudia Ingeniería en Informática en UPIICSA, se encuentra cursando el 3er semestre. Le gusta tomas la batuta y dirigir, delegar e impartir los roles dentro de un equipo; no obstante, le gusta programar paginas web y desempeñarse en Node.js. Sus principales vocaciones fuera de lo académico son: el descansar arduas horas, para que en el momento requerido desenvuelva todo su potencial, esto ligado a que le agrada tener multiples alimentaciones a lo largo del día. Continua su preparacion y dominio del lenguaje universal inglés, le gusta leer libros de amor en sus tiempos libres, porque siente que le purifica el alma; y por ultimo una buena parte de su tiempo se la dedica al seguimiento y mantenimiento de su paginas de memes en Facebook",
+        "position": "General Manager",
+        "social": {
+            "facebook": "https://facebook.com",
+            "twitter": "https://twitter.com",
+            "instagram": "https://instagram.com",
+            "linkedin": "https://mx.linkedin.com"
+        },
+        "image": "https://res.cloudinary.com/dfeujtobk/image/upload/v1610649435/Tecnovacion/team/Team3_ulti3j.jpg"
+    },
+    {
+        "value": "Diego",
+        "name": "Diego Rodrigo Gonzalez Maldonado",
+        "description": "Actualmente se encuentra estudiando Ingeniería en Informática en UPIICSA, cursa el 3er. Semestre. Le gusta el tomar las decisiones y ser quien da la cara por el equipo, ádemas tiene una pasion a la programacion, pero mayormente la programación y armado de circuitos. Las actividades extracurriculares que efectúa son el estudio de Inglés, le gusta entrenar box y hacer ejercicio, leer libros acerca del campo que estoy estudiando es algo que frecuento y le gusta mucho, y por último pero no menos importante el salir en mi bicicleta.",
+        "position": "Product Manager",
+        "social": {
+            "facebook": "facebook.com",
+            "twitter": "twitter.com",
+            "instagram": "",
+            "linkedin": ""
+        },
+        "image": "https://res.cloudinary.com/dfeujtobk/image/upload/v1610649435/Tecnovacion/team/Team2_qfeixt.jpg"
+    }
+]
