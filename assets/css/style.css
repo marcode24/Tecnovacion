@@ -1,16 +1,13 @@
-/**
-* Template Name: Squadfree - v2.3.0
-* Template URL: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 a {
@@ -102,6 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 #header.header-scrolled {
   background: rgb(000, 000, 000);
   padding: 10px 0 10px 0;
+  border-bottom: solid rgb(198, 73, 192);
 }
 
 #header .logo h1 {
@@ -161,8 +159,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  background: rgba(255, 255, 255, 0.2);
+  /* background: rgba(160, 39, 39, 0.2); */
+  background: transparent;
   text-decoration: none;
+  color:  rgb(198, 73, 192);
 }
 
 .header-scrolled .nav-menu > ul > li {
@@ -174,7 +174,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-scrolled .nav-menu a:hover, .header-scrolled .nav-menu .active > a, .header-scrolled .nav-menu li:hover > a {
-  background: rgba(255, 255, 255, 0.2);
+  background: transparent;
+  color:  rgb(198, 73, 192);
 }
 
 .nav-menu .drop-down ul {
@@ -207,11 +208,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #25607a;
+  color: #000;
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #67b0d1;
+  color: rgb(198, 73, 192);
 }
 
 .nav-menu .drop-down > a:after {
@@ -612,7 +613,7 @@ section {
 
 .about .icon-boxes .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #444444;
   text-align: justify;
 }
 
@@ -660,6 +661,7 @@ section {
   background: #c74ac1;
   top: 0;
   border-radius: 0px;
+  cursor: default;
 }
 
 .services .icon {
@@ -691,10 +693,12 @@ section {
 
 .services .icon-box:hover .title a, .services .icon-box:hover .description {
   color: #fff;
+  cursor: default;
 }
 
 .services .icon-box:hover .icon i {
   color: #fff;
+  cursor: default;
 }
 
 /*--------------------------------------------------------------
@@ -1110,7 +1114,7 @@ section {
   right: 0;
   bottom: -70px;
   background: #fff;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.3);
   z-index: 2;
 }
 
@@ -1146,6 +1150,12 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0 0 0 0;
 }
+
+.portfolio-details .img-details {
+  max-width: 100%;
+  height: auto;
+}
+
 
 @media (max-width: 768px) {
   .portfolio-details .portfolio-description h2 {
@@ -1391,9 +1401,9 @@ section {
 }
 
 .team .member h4 {
-  font-weight: 700;
+  font-weight: 900;
   margin-bottom: 10px;
-  font-size: 16px;
+  font-size: 18px;
   color:  #cc7bd7;
   position: relative;
   padding-bottom: 10px;

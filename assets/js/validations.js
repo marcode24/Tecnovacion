@@ -1,5 +1,5 @@
 const namesAllowed = ['Marco', 'Diego', 'Ricardo', 'Divani', 'Manuel'];
-const projectsAllowed = ['Market', 'MarketPage', 'Infotech', 'InfotechPage', 'Homeworks', 'Chat'];
+const projectsAllowed = ['Market', 'MarketPage', 'Infotech', 'InfotechPage', 'Homeworks', 'Chat', 'Escondida', 'Delicious'];
 
 const showDetailTeam = (name) => {
     const isAllowed = namesAllowed.find(e => e === name);

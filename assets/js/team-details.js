@@ -8,8 +8,9 @@ const namesAllowed = ['Marco', 'Diego', 'Ricardo', 'Divani', 'Manuel'];
 const isAllowed = namesAllowed.find(e => e === nameParam);
 
 const getDataUser = async(name) => {
+    document.title = `Equipo - ${name}`;
     let data = [];
-    await fetch('data/team.json').then(resp => resp.json().then((elements) => data = Array(...elements)));
+    await fetch('assets/data/team.json').then(resp => resp.json().then((elements) => data = Array(...elements)));
     const myTeamUser = data.find(user => user.value === name);
     return myTeamUser;
 }
@@ -43,7 +44,6 @@ const buildProfile = async() => {
             a.innerHTML = `<i class="icofont-${socialMedias[i]}"></i>`;
             div.appendChild(a);
         }
-        console.log(div);
         items.append(div);
     }
 

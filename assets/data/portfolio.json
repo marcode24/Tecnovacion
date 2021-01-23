@@ -5,7 +5,7 @@
         "category": "Diseño Web",
         "projectDate": "27 Julio 2018",
         "url": "",
-        "description": "",
+        "description": "Una nueva forma de tener cualquier establecimiento muy organizado, y mejor aun tener la contabilidad de tu negocio al alcance de tus manos",
         "images": [
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/MarketPage1_c0h4gh.jpg",
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/MarketPage2_dna0iz.jpg"
@@ -17,7 +17,7 @@
         "category": "Desarrollo Web",
         "projectDate": "07 Junio 2018",
         "url": "",
-        "description": "",
+        "description": "Una nueva forma de tener cualquier establecimiento muy organizado, y mejor aun tener la contabilidad de tu negocio al alcance de tus manos",
         "images": [
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Market1_t7ptvf.jpg",
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/Market2_r3zhrl.jpg",
@@ -32,7 +32,7 @@
         "category": "Desarrollo Web",
         "projectDate": "07 Junio 2020",
         "url": "",
-        "description": "",
+        "description": "Cansado de las mismas experiencias de tus redes sociales, llega hasta tus manos una nueva experiencia muy innovadora",
         "images": [
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/Chat1_eyuud8.jpg",
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Chat2_marib5.jpg",
@@ -45,7 +45,7 @@
         "category": "Diseño Web",
         "projectDate": "07 Noviembre 2019",
         "url": "",
-        "description": "",
+        "description": "Las noticas son muy fundamentales hoy en dia, pero que mas tener las noticias mas relevantes de la tecnologia, un mundo con grandes cambios innovadores",
         "images": [
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/InfotechPage1_yxvw3b.jpg",
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/InfotechPage2_nyizco.jpg"
@@ -57,9 +57,33 @@
         "category": "Desarrollo Web",
         "projectDate": "10 Octubre 2019",
         "url": "",
-        "description": "Esta es una app",
+        "description": "Las noticas son muy fundamentales hoy en dia, pero que mas tener las noticias mas relevantes de la tecnologia, un mundo con grandes cambios innovadores",
         "images": [
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Infotech_obvctf.jpg"
+        ]
+    },
+    {
+        "value": "Delicious",
+        "title": "Delicious",
+        "category": "Diseño Web",
+        "projectDate": "22 Febrero 2020",
+        "url": "",
+        "description": "Un restaurante que cumple con los paladares mas exigentes del mundo",
+        "images": [
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1611429166/Tecnovacion/portfolio/Delicious1_lclagd.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1611429166/Tecnovacion/portfolio/Delicious2_mwvibe.jpg"
+        ]
+    },
+    {
+        "value": "Escondida",
+        "title": "La Escondida",
+        "category": "Diseño Web",
+        "projectDate": "10 Octubre 2019",
+        "url": "",
+        "description": "Quieres un lugar donde realizar eventos o simplemente comer los mejores platillos de la zona, este es el lugar indicado",
+        "images": [
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1611429166/Tecnovacion/portfolio/Escondida1_gjqp7k.jpg",
+            "https://res.cloudinary.com/dfeujtobk/image/upload/v1611429166/Tecnovacion/portfolio/Escondida2_muqusw.jpg"
         ]
     },
     {
@@ -68,7 +92,7 @@
         "category": "Desarrollo Web",
         "projectDate": "07 Agosto 2020",
         "url": "",
-        "description": "",
+        "description": "Cansado de olvidar tareas, planes que no se concluyeron en su tiempo o peor aun una mala organizacion en tus tiempos",
         "images": [
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413944/Tecnovacion/portfolio/Homeworks1_a6maf0.jpg",
             "https://res.cloudinary.com/dfeujtobk/image/upload/v1610413945/Tecnovacion/portfolio/Homeworks2_sdvh77.jpg",
