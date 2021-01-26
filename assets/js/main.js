@@ -171,6 +171,22 @@
     });
   });
 
+  // Prosoft isotope and filter
+  $(window).on('load', function() {
+    var prosoftIsotope = $('.prosoft-container').isotope({
+      itemSelector: '.prosoft-item',
+      layoutMode: 'fitRows'
+    });
+    $('#prosoft-flters li').on('click', function() {
+      $("#prosoft-flters li").removeClass('filter-active');
+      $(this).addClass('filter-active');
+      prosoftIsotope.isotope({
+        filter: $(this).data('filter')
+      });
+      aos_init();
+    });
+  });
+
   // Initiate venobox (lightbox feature used in portofilo)
   $(document).ready(function() {
     $('.venobox').venobox();
